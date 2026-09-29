@@ -78,14 +78,6 @@ My earlier projects include:
 - Highly available web infrastructure with EC2, ALB, and Auto Scaling
 - Dockerized Flask application deployed to EC2 with Nginx
 
-## Current Focus
-
-- Strengthening Kubernetes administration and troubleshooting
-- Improving Linux, Bash, and networking fundamentals
-- Building reliable CI/CD pipelines
-- Writing reusable and secure Terraform configurations
-- Developing stronger Python and SQL fundamentals
-
 ## Contact
 
 - Location: Budapest, Hungary
