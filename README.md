@@ -83,4 +83,4 @@ My earlier projects include:
 - Location: Budapest, Hungary
 - GitHub: [Tahir-Alakbarli](https://github.com/Tahir-Alakbarli)
 - LinkedIn: Tahir Alakbarli
-- Open to Cloud and DevOps internship opportunities
+- Open to internship and job opportunities
